@@ -5,8 +5,4 @@
 ## Context
 In this project, I used JavaScript and CSS to create a weather app.
 
-## Twitter
-* **[Bensouda El Mehdi](https://twitter.com/el_bensouda)**
-
-## GitHub
-* **[Bensouda El Mehdi](https://github.com/ElMehdi02)**
+- Bensouda El Mehdi - [Github](https://github.com/ElMehdi02) | [LinkedIn](https://www.linkedin.com/in/el-mehdi-bensouda-b754481b1/) | [Twitter](https://twitter.com/el_bensouda)
